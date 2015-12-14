@@ -2,14 +2,19 @@
 Gemäß Ziffer 4 des "Antrags auf Einsichtnahme in den bundesweiten Infrastrukturatlas der Bundesnetzagentur - Phase 3" beantragt der Förderverein Freie Infrastruktur die Einsicht in den im Titel des Antrag genannten Atlanten. Zunächst folgt die "kurze Projektbeschreibung" aus dem Antrag wonach notwendige Begriffe erklärt und anschließend die ausführliche Projektbeschreibung folgt.
 
 ## Kurze Projektbeschreibung
-Der FFI fördert den Ausbau von drahtlosen ("WLAN") Bürgernetzen ("Freifunk"). In diesem Zusammenhang ist der FFI aktiv damit beschäftigt im Stadtgebiet von Münster ein Richtfunknetzwerk zu errichten.
+> "Der FFI fördert den Ausbau von drahtlosen ("WLAN") Bürgernetzen ("Freifunk"). In diesem Zusammenhang ist der FFI aktiv damit beschäftigt im Stadtgebiet von Münster ein Richtfunknetzwerk zu errichten."
 
 ## Begriffsklärung
 Zum Verständnis des Antrages ist es notwendig, dass gewisse Begrifflichkeiten und Namen erklärt werden. Dabei gehen wir auf die gängigen Fragen "Was ist Freifunk?", "Was ist Freifunk Münsterland?" und "Was ist der Förderverein Freie Infrstruktur?" ein.
 
 ### Was ist Freifunk?
-Freifunk ist eine 2002 in Berlin gestartete und sich rasch ausbreitende Bewegung, die es sich zum Ziel gemacht hat, freie Funknetze aufzubauen. Freie Funknetze sind auf WLAN basierende Funknetzwerke, die statt von kommerziellen Anbietern, von Personen, Vereinen oder anderen Organisationen angeboten werden.
-Die Nutzung und der Betrieb von Freifunk unterliegen den Bedingungen des Pico-Peering-Agreements (PPA), dass eine Zensur und weitere Manipulation des Datenflusses untersagt.
+Freifunk ist eine 2002 in Berlin gestartete und sich rasch ausbreitende Bewegung, die es sich zum Ziel gemacht hat, freie Funknetze aufzubauen. Freie Funknetze sind auf WLAN basierende Funknetzwerke, die statt von kommerziellen Anbietern, von Personen, Vereinen oder anderen Organisationen angeboten werden. Die Nutzung und der Betrieb von Freifunk unterliegen den Bedingungen des Pico-Peering-Agreements (PPA), dass eine Zensur und weitere Manipulation des Datenflusses untersagt.
+
+Insbesondere für die Versorgung sozial schwacher Menschen mit freiem Internet macht sich die Bewegung, die sich in lokalen, voneinander unabhängigen, jedoch freundlich gesonnenen Gemeinschaften organisiert einen Namen. So sind in den letzten Jahren vor allem Flüchtlinge in den Fokus der ehrenamtlichen Arbeit gerückt.
+
+Seit der Gründung hat Freifunk verschiedene Wellen von Zuspruch erhalten. War es 2011 "nur" die Medienanstalt Berlin-Brandenburg (MBB), so hat am 16.06.2015 der Landtag NRW mit dem Beschluss [Freifunk in Nordrhein-Westfalen: Bürgernetze ausbauen und weiter stärken!](http://www.landtag.nrw.de/portal/WWW/dokumentenarchiv/Dokument/MMD16-8970.pdf "Drucksache 16/8970") sich hinter die Bewegung gestellt und damit die Möglichkeit auf Akquise von Fördergeldern aus Landesmitteln sowie die Benutzung der Dächer der landeseigenen Liegenschaften gegeben.
+
+Viele Städte haben das Potential in freiem WLAN entdeckt und treten der Bewegung bei, um Innenstädte, Sehenswürdigkeiten und weitere wichtige Plätze mit Freifunk zu versorgen. Städte wie Münster und Dülmen sehen öffentliches WLAN als wichtig für den Handel, die Gastronomie und den Tourismus in der Stadt an. Weiterhin schließen sich Unternehmen an, die in Freifunk einen Teil ihres ...
 
 ### Was ist Freifunk Münsterland?
 Freifunk Münsterland ist der Zusammenschluss der Freifunk-Gemeinschaften (im Sprachgebrauch der Bewegung: Communities) im Münsterland hinsichtlich der gemeinssam genutzten Technik.
@@ -24,3 +29,4 @@ Der Förderverein Freie Infrastruktur ist ein sich in Gründung befindlicher Ver
 * Förderung und Unterstützung von Projekten und Initiativen, die in ähnlichen Bereichen tätig sind oder denen die Idee freier Netzwerke näher gebracht werden soll.
 
 ## Ausführliche Projektbeschreibung
+
