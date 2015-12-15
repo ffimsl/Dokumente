@@ -8,7 +8,7 @@ Gemäß Ziffer 4 des "Antrags auf Einsichtnahme in den bundesweiten Infrastruktu
 Zum Verständnis des Antrages ist es notwendig, dass gewisse Begrifflichkeiten und Namen erklärt werden. Dabei gehen wir auf die gängigen Fragen "Was ist Freifunk?", "Was ist Freifunk Münsterland?" und "Was ist der Förderverein Freie Infrstruktur?" ein.
 
 ### Was ist Freifunk?
-Freifunk ist eine 2002 in Berlin gestartete und sich rasch ausbreitende Bewegung, die es sich zum Ziel gemacht hat, freie Funknetze aufzubauen. Freie Funknetze sind auf WLAN basierende Funknetzwerke, die statt von kommerziellen Anbietern, von Personen, Vereinen oder anderen Organisationen angeboten werden. Die Nutzung und der Betrieb von Freifunk unterliegen den Bedingungen des Pico-Peering-Agreements (PPA), dass eine Zensur und weitere Manipulation des Datenflusses untersagt.
+Freifunk ist eine 2002 in Berlin gestartete und sich rasch ausbreitende Bewegung, die es sich zum Ziel gemacht hat, freie Funknetze aufzubauen. Freie Funknetze sind auf WLAN basierende Funknetzwerke, die von Personen, Vereinen oder anderen Organisationen angeboten werden. Die Nutzung und der Betrieb von Freifunk unterliegen den Bedingungen des Pico-Peering-Agreements (PPA), dass eine Zensur und weitere Manipulation des Datenflusses untersagt.
 
 Insbesondere für die Versorgung sozial schwacher Menschen mit freiem Internet macht sich die Bewegung, die sich in lokalen, voneinander unabhängigen, jedoch freundlich gesonnenen Gemeinschaften organisiert einen Namen. So sind in den letzten Jahren vor allem Flüchtlinge in den Fokus der ehrenamtlichen Arbeit gerückt.
 
@@ -33,6 +33,9 @@ Der Förderverein Freie Infrastruktur ist ein sich in Gründung befindlicher Ver
 
 ## Ausführliche Projektbeschreibung
 
-Als Förderverein Freie Infrastruktur möchten wir die Freifunk Community Münster dabei unterstützen, ein eigenes Backbone-Netz in der Stadt zu errichten. Bei Erfolg soll dieses Projekt auf andere Städte ausgeweitet werden, in denen es aktive Communities gibt (etwa Steinfurt, Warendorf oder Dülmen). Dabei wollen wir zunächst die Reichweiten unserer Geräte im praktischen Test auf den Dächern testen, allerdings primär Produktivsysteme schalten.
+Als Förderverein Freie Infrastruktur möchten wir die Freifunk Community Münster dabei unterstützen, ein eigenes Backbone-Netz in Münster zu errichten. Nach einer Pilotphase soll dieses Projekt auf umliegenden Gemeinden ausgeweitet werden, in denen es aktive Communities gibt (etwa Steinfurt, Warendorf oder Dülmen). Hier hoffen wir auch konkret im ländlichen Bereich einzelstehende Häuse und Höfe einbinden zu können die heute über keinerlei Breitbandanbindung verfügen.
 
-Neben dem noch zu erscheinenden OpenData Atlas des Bau und Liegenschaftbetriebs NRW mit zur Nutzung freigegebener Dächer hilft uns der Infrastrukturatlas bei der weiteren Planung. Mögliche Fragestellungen wie "Wo wurden bereits Richtfunkstrecken installiert?", "Wo ist Vorsicht aufgrund von Interferenzen geboten?" oder "Wo gibt es Leerrohre, die uns von Dachstationen Zugang zu Uplinks geben?" können uns bei der Problemlösung helfen. Denn eins ist klar. Freifunk beschränkt sich nicht nur auf WLAN-Netze sondern sieht sich auch Teilnehmer des Breitbandausbaus...
+Neben dem noch zu erscheinenden OpenData Atlas des Bau und Liegenschaftbetriebs NRW mit zur Nutzung freigegebener Dächer hilft uns der Infrastrukturatlas bei der weiteren Planung. 
+Die entsprechende Backbone Struktur stützt sich primär auf durch uns errichtete Richtfunkstrecken ab, kann aber - wo vorhanden  und sinnvoll - auch kabel/fasergebundene Verbindungen sinnvoll integrieren. Weiterhin sind wir punktuell auf eine Anbindung an konventionelle und kommerzielle Infrastrukturen ("Uplink") angewiesen. Dementsprechend benötigen wir Information über die aktuelle vorhandenden Infrastruktur um unsere Netzstruktur entsprechend planen zu können.
+
+Denn eins ist klar. Freifunk beschränkt sich nicht nur auf WLAN-Netze sondern sieht sich auch Teilnehmer des Breitbandausbaus...
