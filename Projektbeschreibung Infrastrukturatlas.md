@@ -14,13 +14,15 @@ Insbesondere für die Versorgung sozial schwacher Menschen mit freiem Internet m
 
 Seit der Gründung hat Freifunk verschiedene Wellen von Zuspruch erhalten. War es 2011 "nur" die Medienanstalt Berlin-Brandenburg (MBB), so hat am 16.06.2015 der Landtag NRW mit dem Beschluss [Freifunk in Nordrhein-Westfalen: Bürgernetze ausbauen und weiter stärken!](http://www.landtag.nrw.de/portal/WWW/dokumentenarchiv/Dokument/MMD16-8970.pdf "Drucksache 16/8970") sich hinter die Bewegung gestellt und damit die Möglichkeit auf Akquise von Fördergeldern aus Landesmitteln sowie die Benutzung der Dächer der landeseigenen Liegenschaften gegeben.
 
-Viele Städte haben das Potential in freiem WLAN entdeckt und treten der Bewegung bei, um Innenstädte, Sehenswürdigkeiten und weitere wichtige Plätze mit Freifunk zu versorgen. Städte wie Münster und Dülmen sehen öffentliches WLAN als wichtig für den Handel, die Gastronomie und den Tourismus in der Stadt an. Weiterhin schließen sich Unternehmen an, die in Freifunk einen Teil ihres ...
+Viele Städte haben das Potential in freiem WLAN entdeckt und treten der Bewegung bei, um Innenstädte, Sehenswürdigkeiten und weitere wichtige Plätze mit Freifunk zu versorgen. Städte wie Münster und Dülmen sehen öffentliches WLAN als wichtig für den Handel, die Gastronomie und den Tourismus in ihrer Stadt an. Weiterhin schließen sich Unternehmen aus ähnlichen Gründen an und sehen die Teilnahme an Freifunk als Teil ihres Social Entrepreneurship-Konzepts.
 
 ### Was ist Freifunk Münsterland?
-Freifunk Münsterland ist der Zusammenschluss der Freifunk-Gemeinschaften (im Sprachgebrauch der Bewegung: Communities) im Münsterland hinsichtlich der gemeinsam genutzten Technik. Im Internet ist Freifunk Münsterland unter anderem über eine eigene [Website](https://freifunk-muensterland.de/) mit aussagekräftigen Informationen und Neuigkeiten vertreten.
+Freifunk Münsterland ist der Zusammenschluss der Freifunk-Gemeinschaften (im Sprachgebrauch der Bewegung: Communities) im Münsterland hinsichtlich der gemeinsam genutzten Technik. Zu den im Verbund stehenden Communities gehören Initiativen wie Freifunk Kreis Steinfurt, Freifunk Münster, Freifunk Warendorf und Freifunk Westmünsterland. Im Internet ist Freifunk Münsterland unter anderem über eine eigene [Website](https://freifunk-muensterland.de/) und weitere Kanäle mit aussagekräftigen Informationen und Neuigkeiten vertreten.
+
+Gemeinsam werden Unterkünfte für Geflüchtete vernetzt, wie nicht zuletzt [in Warendorf](https://freifunk-muensterland.de/freifunk-fuer-fluechtlinge-in-drei-tagen/) oder [*füge hier eine Community ein*].
 
 ### Was ist der Förderverein Freie Infrastruktur i.Gr.?
-Der Förderverein Freie Infrastruktur ist ein sich in Gründung befindlicher Verein mit Sitz in Münster. Die Gründungsversammlung fand am 22. November 2015 in Münster statt. Zu den satzungsgemäß selbst gegebenen Zwecken gehören unter anderem folgende für die Nutzung des Infrastrukturatlas relevanten Punkte:
+Der Förderverein Freie Infrastruktur ist ein sich in Gründung befindlicher Verein mit Sitz in Münster. Die Gründungsversammlung fand am 22. November 2015 in Münster statt. Zu den selbst gegebenen Zwecken in der Satzung gehören unter anderem folgende, für die Nutzung des Infrastrukturatlas relevante, Punkte:
 
 * Erforschung und Weiterentwicklung von freien Datennetzwerke sowohl auf technischer als auch gesellschaftlicher Ebene. 
 * Schaffung von freien Daten-Netzwerken ("Bürgernetzen").
@@ -33,4 +35,4 @@ Der Förderverein Freie Infrastruktur ist ein sich in Gründung befindlicher Ver
 
 Als Förderverein Freie Infrastruktur möchten wir die Freifunk Community Münster dabei unterstützen, ein eigenes Backbone-Netz in der Stadt zu errichten. Bei Erfolg soll dieses Projekt auf andere Städte ausgeweitet werden, in denen es aktive Communities gibt (etwa Steinfurt, Warendorf oder Dülmen). Dabei wollen wir zunächst die Reichweiten unserer Geräte im praktischen Test auf den Dächern testen, allerdings primär Produktivsysteme schalten.
 
-Neben dem noch zu erscheinenden OpenData Atlas des Bau und Liegenschaftbetriebs NRW mit zur Nutzung freigegebener Dächer hilft uns der Infrastrukturatlas bei der weiteren Planung. Mögliche Fragestellungen wie "Wo wurden bereits Richtfunkstrecken installiert?", "Wo ist Vorsicht aufgrund von Interferenzen angesagt?" oder "Welche weiteren Kooperationsmöglichkeiten gibt es?" können uns bei der Problemlösung helfen.
+Neben dem noch zu erscheinenden OpenData Atlas des Bau und Liegenschaftbetriebs NRW mit zur Nutzung freigegebener Dächer hilft uns der Infrastrukturatlas bei der weiteren Planung. Mögliche Fragestellungen wie "Wo wurden bereits Richtfunkstrecken installiert?", "Wo ist Vorsicht aufgrund von Interferenzen geboten?" oder "Welche weiteren Kooperationsmöglichkeiten gibt es?" können uns bei der Problemlösung helfen.
