@@ -5,8 +5,7 @@ Der jährliche Mitgliedsbeitrag für natürliche und juristische Personen beträgt 6
 
 Ehrenmitglieder sind laut Satzung von der Beitragszahlung befreit.
 
-Fördermitglieder setzen Ihren Beitrag selber fest, der jährliche Mindestbeitrag liegt bei 60 EUR. 
-
+Fördermitglieder setzen Ihren Beitrag selber fest, der jährliche Mindestbeitrag liegt bei 5 EUR. Ab einer jährlichen Beitragshöhe von 120 ¿ ist eine monatliche Zahlung möglich. Die Zahlung kann per SEPA-Mandat oder Überweisung erfolgen, wobei ein automatischer Einzug per SEPA-Mandat bevorzugt wird.
 
 # §2 Ermäßigung
 
