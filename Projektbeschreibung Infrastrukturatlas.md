@@ -1,5 +1,5 @@
 # Projektbeschreibung
-Gemäß Ziffer 4 des "Antrags auf Einsichtnahme in den bundesweiten Infrastrukturatlas der Bundesnetzagentur - Phase 3" beantragt der Förderverein Freie Infrastruktur die Einsicht in den im Titel des Antrag genannten Atlas. Zunächst folgt die "kurze Projektbeschreibung" aus dem Antrag, wonach notwendige Begriffe erklärt werden und anschließend die ausführliche Projektbeschreibung folgt.
+Gemäß Ziffer 4 des "Antrags auf Einsichtnahme in den bundesweiten Infrastrukturatlas der Bundesnetzagentur - Phase 3" beantragt der Förderverein Freie Infrastruktur e.V. (im Folgenden kurz: FFI) die Einsicht in den im Titel des Antrag genannten Atlas. Zunächst folgt die "kurze Projektbeschreibung" aus dem Antrag, wonach notwendige Begriffe erklärt werden und anschließend die ausführliche Projektbeschreibung folgt.
 
 ## Kurze Projektbeschreibung
 > "Der FFI fördert den Ausbau von drahtlosen ("WLAN") Bürgernetzen ("Freifunk"). In diesem Zusammenhang ist der FFI aktiv damit beschäftigt im Stadtgebiet von Münster ein Richtfunknetzwerk zu errichten."
@@ -21,8 +21,8 @@ Freifunk Münsterland ist der Zusammenschluss der Freifunk-Gemeinschaften (im Sp
 
 Gemeinsam werden Unterkünfte für Geflüchtete vernetzt, wie nicht zuletzt [in Warendorf](https://freifunk-muensterland.de/freifunk-fuer-fluechtlinge-in-drei-tagen/) oder [*füge hier eine Community ein*].
 
-### Was ist der Förderverein Freie Infrastruktur i.Gr.?
-Der Förderverein Freie Infrastruktur ist ein sich in Gründung befindlicher Verein mit Sitz in Münster. Die Gründungsversammlung fand am 22. November 2015 in Münster statt. Zu den selbst gegebenen Zwecken in der Satzung gehören unter anderem folgende, für die Nutzung des Infrastrukturatlas relevante, Punkte:
+### Was ist der Förderverein Freie Infrastruktur e.V.?
+Der Förderverein Freie Infrastruktur e.V. hat seinen Sitz in Münster. Die Gründungsversammlung fand am 22. November 2015 in Münster statt. Zu den selbst gegebenen Zwecken in der Satzung gehören unter anderem folgende, für die Nutzung des Infrastrukturatlas relevante, Punkte:
 
 * Erforschung und Weiterentwicklung von freien Datennetzwerke sowohl auf technischer als auch gesellschaftlicher Ebene. 
 * Schaffung von freien Daten-Netzwerken ("Bürgernetzen").
@@ -33,6 +33,6 @@ Der Förderverein Freie Infrastruktur ist ein sich in Gründung befindlicher Ver
 
 ## Ausführliche Projektbeschreibung
 
-Als Förderverein Freie Infrastruktur möchten wir die Freifunk Community Münster dabei unterstützen, ein eigenes Backbone-Netz in der Stadt zu errichten. Bei Erfolg soll dieses Projekt auf andere Städte ausgeweitet werden, in denen es aktive Communities gibt (etwa Steinfurt, Warendorf oder Dülmen). Dabei wollen wir zunächst die Reichweiten unserer Geräte im praktischen Test auf den Dächern testen, allerdings primär Produktivsysteme schalten.
+Als FFI möchten wir die Freifunk Community Münster dabei unterstützen, ein eigenes Backbone-Netz in der Stadt zu errichten. Bei Erfolg soll dieses Projekt auf andere Städte und Kreise ausgeweitet werden, in denen es aktive Communities gibt (etwa Steinfurt, Warendorf oder Dülmen). Dabei wollen wir zunächst die Reichweiten unserer Geräte im praktischen Test auf den Dächern testen, allerdings primär Produktivsysteme schalten.
 
 Neben dem noch zu erscheinenden OpenData Atlas des Bau und Liegenschaftbetriebs NRW mit zur Nutzung freigegebener Dächer hilft uns der Infrastrukturatlas bei der weiteren Planung. Mögliche Fragestellungen wie "Wo wurden bereits Richtfunkstrecken installiert?", "Wo ist Vorsicht aufgrund von Interferenzen geboten?" oder "Wo gibt es Leerrohre, die uns von Dachstationen Zugang zu Uplinks geben?" können uns bei der Problemlösung helfen. Denn eins ist klar. Freifunk beschränkt sich nicht nur auf WLAN-Netze sondern sieht sich auch Teilnehmer des Breitbandausbaus...
