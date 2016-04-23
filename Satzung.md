@@ -117,14 +117,14 @@ Eine Wiederwahl ist zulässig.
 
 Aufgabe des Kassenprüfer/-in ist es die Kasse, d.h. Ein- und Ausgaben, auf Korrektheit insbesondere in Bezug auf satzungsgemäße Verwendung der Vereinsmittel.
 
-Der/Die Kassenprüfer/-in erstattet der Mitgliederversammlung Bericht.  
+Der/Die Kassenprüfer/-in erstattet der Mitgliederversammlung Bericht.
 
-# §14 Transparenzgebot 
+# §14 Transparenzgebot
 Der Mitglieder und Vorstand sind gehalten über ihre Tätigkeiten Transparenz herzustellen und über diese regelmäßig und zeitnah zu berichten. Dies soll in "elektronischer Form" (E-Mail, Forum, Blog) geschehen und allen Mitgliedern zugänglich sein.
 
 # §15 Auflösung des Vereins
 
-Bei Auflösung oder Aufhebung des Vereins fällt das Vermögen der Körperschaft zu gleichen Teilen an den Förderverein Freie Netzwerke e.V. und den Freifunk Rheinland e.V. die es unmittelbar und ausschließlich für den weiteren Ausbau von Freifunk-Netzwerken zu verwenden haben. 
+Bei Auflösung oder Aufhebung des Vereins fällt das Vermögen der Körperschaft zu gleichen Teilen an den Förderverein Freie Netzwerke e.V. und den Freifunk Rheinland e.V. die es unmittelbar und ausschließlich für den weiteren Ausbau von Freifunk-Netzwerken zu verwenden haben.
 
 
 Ort, Datum
