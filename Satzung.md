@@ -68,7 +68,7 @@ Der Vorstand ist zur Einberufung einer außerordentlichen Mitgliederversammlung 
 
 Die Mitgliederversammlung wird vom Vorstand unter Einhaltung einer Frist von einem Monat schriftlich unter Angabe der Tagesordnung einberufen. Die Frist beginnt mit dem auf die Absendung des Einladungsschreibens folgenden Tag. Das Einladungsschreiben gilt als den Mitgliedern zugegangen, wenn es an die letzte dem Verein bekannt gegebene Anschrift gerichtet war.
 
-Die Tagesordnung ist zu Ergänzen, wenn dies ein Mitglied bis spätestens eine Woche vor dem angesetzten Termin schriftlich beantragt. Die Ergänzung ist zu Beginn der Versammlung bekanntzumachen.
+Die Tagesordnung ist zu ergänzen, wenn dies ein Mitglied bis spätestens eine Woche vor dem angesetzten Termin schriftlich beantragt. Die Ergänzung ist zu Beginn der Versammlung bekanntzumachen.
 
 Anträge über die Abwahl des Vorstands, über die Änderung der Satzung und über die Auflösung des Vereins, die den Mitgliedern nicht bereits mit der Einladung zur Mitgliederversammlung zugegangen sind, können erst auf der nächsten Mitgliederversammlung beschlossen werden.
 
