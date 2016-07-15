@@ -68,7 +68,7 @@ Der Vorstand ist zur Einberufung einer außerordentlichen Mitgliederversammlung 
 
 Die Mitgliederversammlung wird vom Vorstand unter Einhaltung einer Frist von einem Monat schriftlich unter Angabe der Tagesordnung einberufen. Die Frist beginnt mit dem auf die Absendung des Einladungsschreibens folgenden Tag. Das Einladungsschreiben gilt als den Mitgliedern zugegangen, wenn es an die letzte dem Verein bekannt gegebene Anschrift gerichtet war.
 
-Die Tagesordnung ist zu Ergänzen, wenn dies ein Mitglied bis spätestens eine Woche vor dem angesetzten Termin schriftlich beantragt. Die Ergänzung ist zu Beginn der Versammlung bekanntzumachen.
+Die Tagesordnung ist zu ergänzen, wenn dies ein Mitglied bis spätestens eine Woche vor dem angesetzten Termin schriftlich beantragt. Die Ergänzung ist zu Beginn der Versammlung bekanntzumachen.
 
 Anträge über die Abwahl des Vorstands, über die Änderung der Satzung und über die Auflösung des Vereins, die den Mitgliedern nicht bereits mit der Einladung zur Mitgliederversammlung zugegangen sind, können erst auf der nächsten Mitgliederversammlung beschlossen werden.
 
@@ -117,14 +117,14 @@ Eine Wiederwahl ist zulässig.
 
 Aufgabe des Kassenprüfer/-in ist es die Kasse, d.h. Ein- und Ausgaben, auf Korrektheit insbesondere in Bezug auf satzungsgemäße Verwendung der Vereinsmittel.
 
-Der/Die Kassenprüfer/-in erstattet der Mitgliederversammlung Bericht.  
+Der/Die Kassenprüfer/-in erstattet der Mitgliederversammlung Bericht.
 
-# §14 Transparenzgebot 
+# §14 Transparenzgebot
 Der Mitglieder und Vorstand sind gehalten über ihre Tätigkeiten Transparenz herzustellen und über diese regelmäßig und zeitnah zu berichten. Dies soll in "elektronischer Form" (E-Mail, Forum, Blog) geschehen und allen Mitgliedern zugänglich sein.
 
 # §15 Auflösung des Vereins
 
-Bei Auflösung oder Aufhebung des Vereins fällt das Vermögen der Körperschaft zu gleichen Teilen an den Förderverein Freie Netzwerke e.V. und den Freifunk Rheinland e.V. die es unmittelbar und ausschließlich für den weiteren Ausbau von Freifunk-Netzwerken zu verwenden haben. 
+Bei Auflösung oder Aufhebung des Vereins fällt das Vermögen der Körperschaft zu gleichen Teilen an den Förderverein Freie Netzwerke e.V. und den Freifunk Rheinland e.V. die es unmittelbar und ausschließlich für den weiteren Ausbau von Freifunk-Netzwerken zu verwenden haben.
 
 
 Ort, Datum
