@@ -1,18 +1,32 @@
+# Beitragsordnung des FÃ¶rdervereins freie Infrastruktur e.V.
 
-# §1 Höhe der Beiträge
+Beitragsordnung vom 22.11.2015
+in der verÃ¤nderten Fassung vom xx.xx.xxxx
 
-Der jährliche Mitgliedsbeitrag für natürliche und juristische Personen beträgt 60 EUR. 
+## PrÃ¤ambel
+
+Nach Â§8 (MitgliedsbeitrÃ¤ge) der Satzung des FÃ¶rdervereins freie Infrastruktur e.V. (fortan kurz: FfI) in ihrer ersten Version werden "von den Mitgliedern [...] BeitrÃ¤ge erhoben". AuÃŸerdem wird "die HÃ¶he des Jahresbeitrags und dessen FÃ¤lligkeit [...] von der Mitgliederversammlung bestimmt und in einer Beitragsordnung festgehalten".
+
+Hiermit setzt die Mitgliederversammlung ihre satzungsgemÃ¤ÃŸe Pflicht um und erlÃ¤sst folgende Beitragsordnung.
+
+## Â§1 HÃ¶he der BeitrÃ¤ge
+
+Der jÃ¤hrliche Mitgliedsbeitrag fÃ¼r natÃ¼rliche und juristische Personen betrÃ¤gt 60 EUR. 
 
 Ehrenmitglieder sind laut Satzung von der Beitragszahlung befreit.
 
-Fördermitglieder setzen Ihren Beitrag selber fest, der jährliche Mindestbeitrag liegt bei 5 EUR. Ab einer jährlichen Beitragshöhe von 120 ¿ ist eine monatliche Zahlung möglich. Die Zahlung kann per SEPA-Mandat oder Überweisung erfolgen, wobei ein automatischer Einzug per SEPA-Mandat bevorzugt wird.
+FÃ¶rdermitglieder setzen Ihren Beitrag selber fest, der jÃ¤hrliche Mindestbeitrag liegt bei 5 EUR. Ab einer jÃ¤hrlichen BeitragshÃ¶he von 120 Â¿ ist eine monatliche Zahlung mÃ¶glich. Die Zahlung kann per SEPA-Mandat oder Ãœberweisung erfolgen, wobei ein automatischer Einzug per SEPA-Mandat bevorzugt wird.
 
-§2 Fälligkeit/Zahlungsweise
+## Â§2 FÃ¤lligkeit/Zahlungsweise
 
-Im Regelfall erfolgt die Zahlung jährlich. Das Förder- oder Vollmitglied wird gebeten dem FfI ein SEPA-Mandat zu erteilen, sodass die Beiträge automatisch eingezogen werden können. Dies erfolgt im Januar des Jahres. Ab einer Zahlungshöhe von 120 ¿/Jahr ist eine monatliche Zahlung möglich, diese ist beim Kassenwart zu beantragen.
+Im Regelfall erfolgt die Zahlung jÃ¤hrlich. Das FÃ¶rder- oder Vollmitglied wird gebeten dem FfI ein SEPA-Mandat zu erteilen, sodass die BeitrÃ¤ge automatisch eingezogen werden kÃ¶nnen. Dies erfolgt im Januar des Jahres. Ab einer ZahlungshÃ¶he von 120 Â¿/Jahr ist eine monatliche Zahlung mÃ¶glich, diese ist beim Kassenwart zu beantragen.
 
-Sollte das Förder- oder Vollmitglied nicht mit der Erteilung eines SEPA-Mandats einverstanden sein, kann er oder sie den Mitgliedsbeitrag auch per Überweisung entrichten.
+Sollte das FÃ¶rder- oder Vollmitglied nicht mit der Erteilung eines SEPA-Mandats einverstanden sein, kann er oder sie den Mitgliedsbeitrag auch per Ãœberweisung entrichten.
 
-Da der FfI ein Förderverein ist, ist es angedacht unabhängig vom Beitrittsdatum auch im ersten Jahr den vollen Beitrag zu zahlen. Sollte dies explizit nicht gewünscht sein, ist ein anteiliger Erlass der bereits vergangenen Monate des Beitrittsjahres möglich. Sollte dies gewünscht sein, bitte auf dem Beitrittsformular vermerken.
+Da der FfI ein FÃ¶rderverein ist, ist es angedacht unabhÃ¤ngig vom Beitrittsdatum auch im ersten Jahr den vollen Beitrag zu zahlen. Sollte dies explizit nicht gewÃ¼nscht sein, ist ein anteiliger Erlass der bereits vergangenen Monate des Beitrittsjahres mÃ¶glich. Sollte dies gewÃ¼nscht sein, bitte auf dem Beitrittsformular vermerken.
 
-Eine Kündigung ist nur jährlich möglich und hat bis zum 30. November des Jahres zu erfolgen. 
+Eine KÃ¼ndigung ist nur jÃ¤hrlich mÃ¶glich und hat bis zum 30. November des Jahres zu erfolgen. 
+
+## Inkrafttreten und Geltungsdauer
+1. Diese Beitragsordnung gilt zeitlich unbegrenzt und kann nur durch die Mitgliederversammlung geÃ¤ndert werden. 
+2. Redaktionelle Ã„nderungen sind hiervon nicht betroffen. 
