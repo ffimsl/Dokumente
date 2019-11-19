@@ -3,7 +3,7 @@ Der Verein führt den Namen Förderverein freie Infrastruktur.
 
 Er soll in das Vereinsregister eingetragen werden und trägt dann den Zusatz "e.V."
 
-Der Sitz des Vereins ist Münster.
+Der Sitz des Vereins ist Borken (Westf.).
 
 # §2 Geschäftsjahr
 Das Geschäftsjahr ist das Kalenderjahr. Das erste Geschäftsjahr beginnt mit der Eintragung des Vereins in das Vereinsregister und endet am 31.12. diesen Jahres.
@@ -11,11 +11,11 @@ Das Geschäftsjahr ist das Kalenderjahr. Das erste Geschäftsjahr beginnt mit de
 # §3 Zweck des Vereins
 Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
 
-Zweck des Vereins ist die Förderung von Wissenschaft und Forschung, Volks- und Berufsbildung, Kunst und Kultur sowie Bürgerschaftlichem Engagement.
+Zweck des Vereins ist die Förderung von Wissenschaft und Forschung, Volks- und Berufsbildung, Kunst und Kultur sowie bürgerschaftlichem Engagement.
 
 Der Satzungszweck wird verwirklicht insbesondere durch 
 
-* Erforschung und Weiterentwicklung von  freien Datennetzwerke sowohl auf technischer als auch gesellschaftlicher Ebene. 
+* Erforschung und Weiterentwicklung von  freien Datennetzwerken sowohl auf technischer als auch gesellschaftlicher Ebene.
 * Schaffung von freien Daten-Netzwerken ("Bürgernetzen").
 * Unterhaltung und Betrieb der dafür nötigen Infrastrukturen.
 * Wissensvermittlung und Beratung von interessierte Bürgern und Organisationen.
@@ -61,14 +61,14 @@ Organe des Vereins sind
 * der Vorstand
 
 # §11 Mitgliederversammlung
-Die Mitgliederversammlung ist das oberste Vereinsorgan. Zu ihren Aufgaben gehören insbesondere die Wahl und Abwahl des Vorstands, Entlastung des Vorstands, Entgegennahme der Berichte des Vorstandes, Wahl der Kassenprüfern/innen Festsetzung von Beiträgen und deren Fälligkeit, Beschlussfassung über die Änderung der Satzung, Beschlussfassung über die Auflösung des Vereins, Entscheidung über Aufnahme und Ausschluss von Mitgliedern in Berufungsfällen sowie weitere Aufgaben, soweit sich diese aus der Satzung oder nach dem Gesetz ergeben.
+Die Mitgliederversammlung ist das oberste Vereinsorgan. Zu ihren Aufgaben gehören insbesondere die Wahl und Abwahl des Vorstands, Entlastung des Vorstands, Entgegennahme der Berichte des Vorstandes, Wahl der Kassenprüfer/innen Festsetzung von Beiträgen und deren Fälligkeit, Beschlussfassung über die Änderung der Satzung, Beschlussfassung über die Auflösung des Vereins, Entscheidung über Aufnahme und Ausschluss von Mitgliedern in Berufungsfällen sowie weitere Aufgaben, soweit sich diese aus der Satzung oder nach dem Gesetz ergeben.
 
 Einmal pro Geschäftsjahres findet eine ordentliche Mitgliederversammlung statt.
 Der Vorstand ist zur Einberufung einer außerordentlichen Mitgliederversammlung verpflichtet, wenn mindestens ein Drittel der Mitglieder dies schriftlich unter Angabe von Gründen verlangt.
 
-Die Mitgliederversammlung wird vom Vorstand unter Einhaltung einer Frist von einem Monat schriftlich unter Angabe der Tagesordnung einberufen. Die Frist beginnt mit dem auf die Absendung des Einladungsschreibens folgenden Tag. Das Einladungsschreiben gilt als den Mitgliedern zugegangen, wenn es an die letzte dem Verein bekannt gegebene Anschrift gerichtet war.
+Die Mitgliederversammlung wird vom Vorstand unter Einhaltung einer Frist von einem Monat schriftlich unter Angabe der vorläufigen Tagesordnung einberufen. Die Frist beginnt mit dem auf die Absendung des Einladungsschreibens folgenden Tag. Das Einladungsschreiben gilt als den Mitgliedern zugegangen, wenn es an die letzte dem Verein bekannt gegebene Anschrift oder E-Mail-Adresse gerichtet war.
 
-Die Tagesordnung ist zu ergänzen, wenn dies ein Mitglied bis spätestens eine Woche vor dem angesetzten Termin schriftlich beantragt. Die Ergänzung ist zu Beginn der Versammlung bekanntzumachen.
+Die Tagesordnung ist zu ergänzen, wenn dies ein Mitglied bis spätestens eine Woche vor dem angesetzten Termin schriftlich unter bekanntmachung der Ergänzung beantragt.
 
 Anträge über die Abwahl des Vorstands, über die Änderung der Satzung und über die Auflösung des Vereins, die den Mitgliedern nicht bereits mit der Einladung zur Mitgliederversammlung zugegangen sind, können erst auf der nächsten Mitgliederversammlung beschlossen werden.
 
@@ -85,7 +85,7 @@ Stimmenthaltungen und ungültige Stimmen bleiben außer Betracht.
 Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das vom Versammlungsleiter und dem Schriftführer zu unterzeichnen ist.
 
 #  §12 Vorstand
-Der Vorstand im Sinn des § 26 BGB besteht aus dem/der 1. und 2. Vorsitzenden und dem/der Kassierer/in. Sie vertreten den Verein gerichtlich und außergerichtlich. Zwei Vorstandsmitglieder vertreten gemeinsam.
+Der Vorstand im Sinn des § 26 BGB besteht aus dem/der 1. und 2. Vorsitzenden und dem Kassenwart. Sie vertreten den Verein gerichtlich und außergerichtlich. Zwei Vorstandsmitglieder vertreten gemeinsam.
 Der Vorstand wird von der Mitgliederversammlung auf die Dauer von einem Jahr gewählt.
 Eine vorzeitige Neuwahl eines Postens ändert den Wahlrhythmus nicht.
 Vorstandsmitglieder können nur Mitglieder des Vereins werden.
@@ -100,7 +100,7 @@ Beschlüsse des Vorstands werden mit der Mehrheit der Stimmen der an der Beschlu
 teilnehmenden Vorstandsmitglieder gefasst. Bei Stimmengleichheit gibt die Stimme
 des Vorsitzenden, bei seiner Abwesenheit die des zweiten Vorsitzenden den Ausschlag.
 
-Der/Die Kassierer/in überwacht die Haushaltsführung und verwaltet unter Beachtung etwaiger
+Der Kassenwart überwacht die Haushaltsführung und verwaltet unter Beachtung etwaiger
 Vorstandsbeschlüsse das Vermögen des Vereins. Er/Sie hat auf eine sparsame und wirtschaftliche
 Haushaltsführung hinzuwirken. Mit Ablauf des Geschäftsjahres stellt er/sie unverzüglich
 die Abrechnung sowie die Vermögensübersicht und sonstige Unterlagen von wirtschaftlichem
@@ -109,22 +109,21 @@ Belang den Finanzprüfern des Vereins zur Verfügung.
 Die Vorstandsmitglieder sind ehrenamtlich tätig.
 
 # §13 Kassenprüfung
-Die Mitgliederversammlung wählt für die Dauer von einem Jahr eine/n Kassenprüfer/in.
+Die Mitgliederversammlung wählt für die Dauer von einem Jahr bis zu zwei Kassenprüfer/innen.
 
-Diese/r darf nicht Mitglied des Vorstands sein.
+Diese/r dürfen nicht Mitglied des Vorstands sein.
 
 Eine Wiederwahl ist zulässig.
 
-Aufgabe des Kassenprüfer/-in ist es die Kasse, d.h. Ein- und Ausgaben, auf Korrektheit insbesondere in Bezug auf satzungsgemäße Verwendung der Vereinsmittel.
+Aufgabe der Kassenprüfer/-innen ist es die Kasse, d.h. Ein- und Ausgaben, auf Korrektheit insbesondere in Bezug auf satzungsgemäße Verwendung der Vereinsmittel zu prüfen.
 
-Der/Die Kassenprüfer/-in erstattet der Mitgliederversammlung Bericht.
+Die Kassenprüfer/-innen erstattetn der Mitgliederversammlung Bericht.
 
 # §14 Transparenzgebot
-Der Mitglieder und Vorstand sind gehalten über ihre Tätigkeiten Transparenz herzustellen und über diese regelmäßig und zeitnah zu berichten. Dies soll in "elektronischer Form" (E-Mail, Forum, Blog) geschehen und allen Mitgliedern zugänglich sein.
+Die Mitglieder und Vorstand sind gehalten über ihre Tätigkeiten Transparenz herzustellen und über diese regelmäßig und zeitnah zu berichten. Dies soll in "elektronischer Form" (E-Mail, Forum, Blog) geschehen und allen Mitgliedern zugänglich sein.
 
 # §15 Auflösung des Vereins
-
-Bei Auflösung oder Aufhebung des Vereins fällt das Vermögen der Körperschaft zu gleichen Teilen an den Förderverein Freie Netzwerke e.V. und den Freifunk Rheinland e.V. die es unmittelbar und ausschließlich für den weiteren Ausbau von Freifunk-Netzwerken zu verwenden haben.
+Bei Auflösung oder Aufhebung des Vereins fällt das Vermögen der Körperschaft zu gleichen Teilen an den Freifunk Nordwest e.V. und den Freifunk Rheinland e.V. die es unmittelbar und ausschließlich für den weiteren Ausbau von Freifunk-Netzwerken zu verwenden haben.
 
 
 Ort, Datum
