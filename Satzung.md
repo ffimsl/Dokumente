@@ -1,7 +1,7 @@
 # §1 Name und Sitz
 Der Verein führt den Namen Förderverein freie Infrastruktur.
 
-Er soll in das Vereinsregister eingetragen werden und trägt dann den Zusatz "e.V."
+Er soll in das Vereinsregister eingetragen werden und trägt dann den Zusatz „e. V.“.
 
 Der Sitz des Vereins ist Borken (Westf.).
 
@@ -9,13 +9,13 @@ Der Sitz des Vereins ist Borken (Westf.).
 Das Geschäftsjahr ist das Kalenderjahr. Das erste Geschäftsjahr beginnt mit der Eintragung des Vereins in das Vereinsregister und endet am 31.12. diesen Jahres.
 
 # §3 Zweck des Vereins
-Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
+Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung.
 
 Zweck des Vereins ist die Förderung von Wissenschaft und Forschung, Volks- und Berufsbildung, Kunst und Kultur sowie bürgerschaftlichem Engagement.
 
 Der Satzungszweck wird verwirklicht insbesondere durch 
 
-* Erforschung und Weiterentwicklung von  freien Datennetzwerken sowohl auf technischer als auch gesellschaftlicher Ebene.
+* Erforschung und Weiterentwicklung von freien Datennetzwerken sowohl auf technischer als auch gesellschaftlicher Ebene.
 * Schaffung von freien Daten-Netzwerken ("Bürgernetzen").
 * Unterhaltung und Betrieb der dafür nötigen Infrastrukturen.
 * Wissensvermittlung und Beratung von interessierte Bürgern und Organisationen.
@@ -35,7 +35,7 @@ Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind,
 # §7 Erwerb der Mitgliedschaft
 Vereinsmitglieder können natürliche Personen oder juristische Personen werden.
 
-Der Aufnahmeantrag ist schriftlich zu stellen. Über den Aufnahmeantrag entscheidet die Mitgliederversammlung. Die formelle Kommunikation mit den Mitgliedern soll vorwiegend per E-Mail stattfinden. Die Mitglieder sollen dazu eine gültige und regelmäßig gelesene E-Mail-Adresse vorhalten.
+Der Aufnahmeantrag ist schriftlich zu stellen. Über den Aufnahmeantrag entscheidet der Vorstand. Die formelle Kommunikation mit den Mitgliedern soll vorwiegend per E-Mail stattfinden. Die Mitglieder sollen dazu eine gültige und regelmäßig gelesene E-Mail-Adresse vorhalten.
 
 Mitglieder des Vereins sind ordentliche Mitglieder, Ehrenmitglieder und Fördermitglieder. Ordentliche Mitglieder und Ehrenmitglieder sind aktiv und in der Mitgliederversammlung stimmberechtigt. 
 
@@ -79,7 +79,7 @@ Zu Beginn der Mitgliederversammlung ist ein Schriftführer zu wählen.
 Jedes ordentliche Mitglied hat eine Stimme.
 Das Stimmrecht kann nur persönlich oder für ein Mitglied unter Vorlage einer schriftlichen Vollmacht ausgeübt werden.
 Bei Abstimmungen entscheidet die einfache Mehrheit der abgegebenen Stimmen.
-Satzungsänderungen und die Auflösung des Vereins können nur mit einer Mehrheit von 2/3 der anwesenden Mitglieder beschlossen werden.
+Satzungsänderungen und die Auflösung des Vereins können nur mit einer Mehrheit von zwei Dritteln der anwesenden Mitglieder beschlossen werden.
 Stimmenthaltungen und ungültige Stimmen bleiben außer Betracht.
 
 Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das vom Versammlungsleiter und dem Schriftführer zu unterzeichnen ist.
@@ -115,15 +115,15 @@ Diese/r dürfen nicht Mitglied des Vorstands sein.
 
 Eine Wiederwahl ist zulässig.
 
-Aufgabe der Kassenprüfer/-innen ist es die Kasse, d.h. Ein- und Ausgaben, auf Korrektheit insbesondere in Bezug auf satzungsgemäße Verwendung der Vereinsmittel zu prüfen.
+Aufgabe der Kassenprüfer/-innen ist es die Kasse, d. h. Ein- und Ausgaben, auf Korrektheit insbesondere in Bezug auf satzungsgemäße Verwendung der Vereinsmittel zu prüfen.
 
 Die Kassenprüfer/-innen erstattetn der Mitgliederversammlung Bericht.
 
 # §14 Transparenzgebot
-Die Mitglieder und Vorstand sind gehalten über ihre Tätigkeiten Transparenz herzustellen und über diese regelmäßig und zeitnah zu berichten. Dies soll in "elektronischer Form" (E-Mail, Forum, Blog) geschehen und allen Mitgliedern zugänglich sein.
+Die Mitglieder und Vorstand sind gehalten über ihre Tätigkeiten Transparenz herzustellen und über diese regelmäßig und zeitnah zu berichten. Dies soll in „elektronischer Form“ (E-Mail, Forum, Blog) geschehen und allen Mitgliedern zugänglich sein.
 
 # §15 Auflösung des Vereins
-Bei Auflösung oder Aufhebung des Vereins fällt das Vermögen der Körperschaft zu gleichen Teilen an den Freifunk Nordwest e.V. und den Freifunk Rheinland e.V. die es unmittelbar und ausschließlich für den weiteren Ausbau von Freifunk-Netzwerken zu verwenden haben.
+Bei Auflösung oder Aufhebung des Vereins fällt das Vermögen der Körperschaft zu gleichen Teilen an den Freifunk Nordwest e. V. und den Freifunk Rheinland e. V. die es unmittelbar und ausschließlich für den weiteren Ausbau von Freifunk-Netzwerken zu verwenden haben.
 
 
 Ort, Datum
