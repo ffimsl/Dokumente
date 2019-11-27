@@ -108,6 +108,8 @@ Belang den Finanzprüfern des Vereins zur Verfügung.
 
 Die Vorstandsmitglieder sind ehrenamtlich tätig.
 
+Der Vorstand kann zur Unterstützung und Wahrnehmung seiner Aufgaben Vereinsmitglieder berufen, die entweder auf Dauer oder nur zur Erfüllung einer zeitlich begrenzten Tätigkeit Funktionen übernehmen.
+
 # §13 Kassenprüfung
 Die Mitgliederversammlung wählt für die Dauer von einem Jahr bis zu zwei Kassenprüfer/innen.
 
