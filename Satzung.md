@@ -16,7 +16,7 @@ Zweck des Vereins ist die Förderung von Wissenschaft und Forschung, Volks- und 
 Der Satzungszweck wird verwirklicht insbesondere durch 
 
 * Erforschung und Weiterentwicklung von freien Datennetzwerken sowohl auf technischer als auch gesellschaftlicher Ebene.
-* Schaffung von freien Daten-Netzwerken ("Bürgernetzen").
+* Schaffung von freien Daten-Netzwerken („Bürgernetzen“).
 * Unterhaltung und Betrieb der dafür nötigen Infrastrukturen.
 * Wissensvermittlung und Beratung von interessierte Bürgern und Organisationen.
 * Unterstützung von Kunst- und Kultur- und Bildungsprojekten durch die Ermöglichung von Datenkommunikation von Kunstinstallation und Kulturveranstaltungen
@@ -43,7 +43,7 @@ Ordentliches Mitglied des Vereins kann jede natürliche Person oder juristische 
 
 Fördermitglied des Vereins kann jede natürliche oder juristische Person werden, die sich mit den Zielen des Vereins verbunden fühlt und den Verein finanziell und ideell unterstützen will. Fördermitglieder sind nicht stimmberechtigt. 
 
-Gegen den ablehnenden Bescheid des Vorstands, der mit Gründen zu versehen ist, kann der Antragsteller Beschwerde erheben. Die Beschwerde ist innerhalb eines Monats ab Zugang des ablehnenden Bescheids schriftlich beim Vorstand einzulegen. Über die Beschwerde entscheidet die nächste ordentliche Mitgliederversammlung.
+Gegen den ablehnenden Bescheid des Vorstands, der mit Gründen zu versehen ist, kann der/die Antragsteller/-in Beschwerde erheben. Die Beschwerde ist innerhalb eines Monats ab Zugang des ablehnenden Bescheids schriftlich beim Vorstand einzulegen. Über die Beschwerde entscheidet die nächste ordentliche Mitgliederversammlung.
 
 # §8 Mitgliedsbeiträge
 Von den Mitgliedern werden Beiträge erhoben. Die Höhe des Jahresbeitrags und dessen Fälligkeit werden von der Mitgliederversammlung bestimmt und in einer Beitragsordnung festgehalten. 
@@ -53,7 +53,7 @@ Die Mitgliedschaft endet durch Austritt, Ausschluss, Tod oder Auflösung der jur
 
 Der Austritt erfolgt durch schriftliche Erklärung gegenüber einem vertretungsberechtigten Vorstandsmitglied. 
 
-Ein Ausschluss kann nur aus wichtigem Grund erfolgen. Wichtige Gründe sind insbesondere ein die Vereinsziele schädigendes Verhalten, die Verletzung satzungsmäßiger Pflichten oder Beitragsrückstände von mindestens einem Jahr. Über den Ausschluss entscheidet der Vorstand. Der Vorstand hat die Vereinsmitglieder über einen Ausschluß eines Vereinsmitglieds zu informieren. Gegen den Ausschluss steht dem Mitglied die Berufung an die Mitgliederversammlung zu, die schriftlich binnen eines Monats an den Vorstand zu richten ist. Die Mitgliederversammlung entscheidet im Rahmen des Vereins endgültig. Dem Mitglied bleibt die Überprüfung der Maßnahme durch Anrufung der ordentlichen Gerichte vorbehalten. Die Anrufung eines ordentlichen Gerichts hat aufschiebende Wirkung bis zur Rechtskraft der gerichtlichen Entscheidung.
+Ein Ausschluss kann nur aus wichtigem Grund erfolgen. Wichtige Gründe sind insbesondere ein die Vereinsziele schädigendes Verhalten, die Verletzung satzungsmäßiger Pflichten oder Beitragsrückstände von mindestens einem Jahr. Über den Ausschluss entscheidet der Vorstand. Der Vorstand hat die Vereinsmitglieder über einen Ausschluss eines Vereinsmitglieds zu informieren. Gegen den Ausschluss steht dem Mitglied die Berufung an die Mitgliederversammlung zu, die schriftlich binnen eines Monats an den Vorstand zu richten ist. Die Mitgliederversammlung entscheidet im Rahmen des Vereins endgültig. Dem Mitglied bleibt die Überprüfung der Maßnahme durch Anrufung der ordentlichen Gerichte vorbehalten. Die Anrufung eines ordentlichen Gerichts hat aufschiebende Wirkung bis zur Rechtskraft der gerichtlichen Entscheidung.
 
 # §10 Organe des Vereins
 Organe des Vereins sind
@@ -68,24 +68,24 @@ Der Vorstand ist zur Einberufung einer außerordentlichen Mitgliederversammlung 
 
 Die Mitgliederversammlung wird vom Vorstand unter Einhaltung einer Frist von einem Monat schriftlich unter Angabe der vorläufigen Tagesordnung einberufen. Die Frist beginnt mit dem auf die Absendung des Einladungsschreibens folgenden Tag. Das Einladungsschreiben gilt als den Mitgliedern zugegangen, wenn es an die letzte dem Verein bekannt gegebene Anschrift oder E-Mail-Adresse gerichtet war.
 
-Die Tagesordnung ist zu ergänzen, wenn dies ein Mitglied bis spätestens eine Woche vor dem angesetzten Termin schriftlich unter bekanntmachung der Ergänzung beantragt.
+Die Tagesordnung ist zu ergänzen, wenn dies ein Mitglied bis spätestens eine Woche vor dem angesetzten Termin schriftlich unter Bekanntmachung der Ergänzung beantragt.
 
 Anträge über die Abwahl des Vorstands, über die Änderung der Satzung und über die Auflösung des Vereins, die den Mitgliedern nicht bereits mit der Einladung zur Mitgliederversammlung zugegangen sind, können erst auf der nächsten Mitgliederversammlung beschlossen werden.
 
 Die Mitgliederversammlung ist ohne Rücksicht auf die Zahl der erschienenen Mitglieder beschlussfähig.
 
-Zu Beginn der Mitgliederversammlung ist ein Versammlungsleiter zu wählen.
-Zu Beginn der Mitgliederversammlung ist ein Schriftführer zu wählen.
+Zu Beginn der Mitgliederversammlung ist ein/e Versammlungsleiter/-in zu wählen.
+Zu Beginn der Mitgliederversammlung ist ein/e Schriftführer/-in zu wählen.
 Jedes ordentliche Mitglied hat eine Stimme.
 Das Stimmrecht kann nur persönlich oder für ein Mitglied unter Vorlage einer schriftlichen Vollmacht ausgeübt werden.
 Bei Abstimmungen entscheidet die einfache Mehrheit der abgegebenen Stimmen.
 Satzungsänderungen und die Auflösung des Vereins können nur mit einer Mehrheit von zwei Dritteln der anwesenden Mitglieder beschlossen werden.
 Stimmenthaltungen und ungültige Stimmen bleiben außer Betracht.
 
-Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das vom Versammlungsleiter und dem Schriftführer zu unterzeichnen ist.
+Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das von dem/der Versammlungsleiter/-in und dem/der Schriftführer/-in zu unterzeichnen ist.
 
-#  §12 Vorstand
-Der Vorstand im Sinn des § 26 BGB besteht aus dem/der 1. und 2. Vorsitzenden und dem Kassenwart. Sie vertreten den Verein gerichtlich und außergerichtlich. Zwei Vorstandsmitglieder vertreten gemeinsam.
+# §12 Vorstand
+Der Vorstand im Sinn des § 26 BGB besteht aus dem/der 1. und 2. Vorsitzenden und dem/der Kassenwart/-in. Sie vertreten den Verein gerichtlich und außergerichtlich. Zwei Vorstandsmitglieder vertreten gemeinsam.
 Der Vorstand wird von der Mitgliederversammlung auf die Dauer von einem Jahr gewählt.
 Eine vorzeitige Neuwahl eines Postens ändert den Wahlrhythmus nicht.
 Vorstandsmitglieder können nur Mitglieder des Vereins werden.
@@ -100,11 +100,11 @@ Beschlüsse des Vorstands werden mit der Mehrheit der Stimmen der an der Beschlu
 teilnehmenden Vorstandsmitglieder gefasst. Bei Stimmengleichheit gibt die Stimme
 des Vorsitzenden, bei seiner Abwesenheit die des zweiten Vorsitzenden den Ausschlag.
 
-Der Kassenwart überwacht die Haushaltsführung und verwaltet unter Beachtung etwaiger
+Der/die Kassenwart/-in überwacht die Haushaltsführung und verwaltet unter Beachtung etwaiger
 Vorstandsbeschlüsse das Vermögen des Vereins. Er/Sie hat auf eine sparsame und wirtschaftliche
 Haushaltsführung hinzuwirken. Mit Ablauf des Geschäftsjahres stellt er/sie unverzüglich
 die Abrechnung sowie die Vermögensübersicht und sonstige Unterlagen von wirtschaftlichem
-Belang den Finanzprüfern des Vereins zur Verfügung.
+Belang den Kassenprüfer/-innen des Vereins zur Verfügung.
 
 Die Vorstandsmitglieder sind ehrenamtlich tätig.
 
@@ -119,7 +119,7 @@ Eine Wiederwahl ist zulässig.
 
 Aufgabe der Kassenprüfer/-innen ist es die Kasse, d. h. Ein- und Ausgaben, auf Korrektheit insbesondere in Bezug auf satzungsgemäße Verwendung der Vereinsmittel zu prüfen.
 
-Die Kassenprüfer/-innen erstattetn der Mitgliederversammlung Bericht.
+Die Kassenprüfer/-innen erstatten der Mitgliederversammlung Bericht.
 
 # §14 Transparenzgebot
 Die Mitglieder und Vorstand sind gehalten über ihre Tätigkeiten Transparenz herzustellen und über diese regelmäßig und zeitnah zu berichten. Dies soll in „elektronischer Form“ (E-Mail, Forum, Blog) geschehen und allen Mitgliedern zugänglich sein.
