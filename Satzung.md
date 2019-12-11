@@ -1,3 +1,5 @@
+_Der Verein tritt für die Gleichberechtigung aller Geschlechter ein. Aus Gründen der besseren Lesbarkeit wird in dieser Satzung das generische Maskulinum verwendet._
+
 # §1 Name und Sitz
 Der Verein führt den Namen Förderverein freie Infrastruktur.
 
@@ -43,7 +45,7 @@ Ordentliches Mitglied des Vereins kann jede natürliche Person oder juristische 
 
 Fördermitglied des Vereins kann jede natürliche oder juristische Person werden, die sich mit den Zielen des Vereins verbunden fühlt und den Verein finanziell und ideell unterstützen will. Fördermitglieder sind nicht stimmberechtigt. 
 
-Gegen den ablehnenden Bescheid des Vorstands, der mit Gründen zu versehen ist, kann der/die Antragsteller/-in Beschwerde erheben. Die Beschwerde ist innerhalb eines Monats ab Zugang des ablehnenden Bescheids schriftlich beim Vorstand einzulegen. Über die Beschwerde entscheidet die nächste ordentliche Mitgliederversammlung.
+Gegen den ablehnenden Bescheid des Vorstands, der mit Gründen zu versehen ist, kann der Antragsteller Beschwerde erheben. Die Beschwerde ist innerhalb eines Monats ab Zugang des ablehnenden Bescheids schriftlich beim Vorstand einzulegen. Über die Beschwerde entscheidet die nächste ordentliche Mitgliederversammlung.
 
 # §8 Mitgliedsbeiträge
 Von den Mitgliedern werden Beiträge erhoben. Die Höhe des Jahresbeitrags und dessen Fälligkeit werden von der Mitgliederversammlung bestimmt und in einer Beitragsordnung festgehalten. 
@@ -61,7 +63,7 @@ Organe des Vereins sind
 * der Vorstand
 
 # §11 Mitgliederversammlung
-Die Mitgliederversammlung ist das oberste Vereinsorgan. Zu ihren Aufgaben gehören insbesondere die Wahl und Abwahl des Vorstands, Entlastung des Vorstands, Entgegennahme der Berichte des Vorstandes, Wahl der Kassenprüfer/innen Festsetzung von Beiträgen und deren Fälligkeit, Beschlussfassung über die Änderung der Satzung, Beschlussfassung über die Auflösung des Vereins, Entscheidung über Aufnahme und Ausschluss von Mitgliedern in Berufungsfällen sowie weitere Aufgaben, soweit sich diese aus der Satzung oder nach dem Gesetz ergeben.
+Die Mitgliederversammlung ist das oberste Vereinsorgan. Zu ihren Aufgaben gehören insbesondere die Wahl und Abwahl des Vorstands, Entlastung des Vorstands, Entgegennahme der Berichte des Vorstandes, Wahl der Kassenprüfer Festsetzung von Beiträgen und deren Fälligkeit, Beschlussfassung über die Änderung der Satzung, Beschlussfassung über die Auflösung des Vereins, Entscheidung über Aufnahme und Ausschluss von Mitgliedern in Berufungsfällen sowie weitere Aufgaben, soweit sich diese aus der Satzung oder nach dem Gesetz ergeben.
 
 Einmal pro Geschäftsjahres findet eine ordentliche Mitgliederversammlung statt.
 Der Vorstand ist zur Einberufung einer außerordentlichen Mitgliederversammlung verpflichtet, wenn mindestens ein Drittel der Mitglieder dies schriftlich unter Angabe von Gründen verlangt.
@@ -82,10 +84,10 @@ Bei Abstimmungen entscheidet die einfache Mehrheit der abgegebenen Stimmen.
 Satzungsänderungen und die Auflösung des Vereins können nur mit einer Mehrheit von zwei Dritteln der anwesenden Mitglieder beschlossen werden.
 Stimmenthaltungen und ungültige Stimmen bleiben außer Betracht.
 
-Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das von dem/der Versammlungsleiter/-in und dem/der Schriftführer/-in zu unterzeichnen ist.
+Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das von dem Versammlungsleiter und dem Schriftführer zu unterzeichnen ist.
 
 # §12 Vorstand
-Der Vorstand im Sinn des § 26 BGB besteht aus dem/der 1. und 2. Vorsitzenden und dem/der Kassenwart/-in. Sie vertreten den Verein gerichtlich und außergerichtlich. Zwei Vorstandsmitglieder vertreten gemeinsam.
+Der Vorstand im Sinn des § 26 BGB besteht aus dem 1. und 2. Vorsitzenden und dem Kassenwart. Sie vertreten den Verein gerichtlich und außergerichtlich. Zwei Vorstandsmitglieder vertreten gemeinsam.
 Der Vorstand wird von der Mitgliederversammlung auf die Dauer von einem Jahr gewählt.
 Eine vorzeitige Neuwahl eines Postens ändert den Wahlrhythmus nicht.
 Vorstandsmitglieder können nur Mitglieder des Vereins werden.
@@ -100,26 +102,26 @@ Beschlüsse des Vorstands werden mit der Mehrheit der Stimmen der an der Beschlu
 teilnehmenden Vorstandsmitglieder gefasst. Bei Stimmengleichheit gibt die Stimme
 des Vorsitzenden, bei seiner Abwesenheit die des zweiten Vorsitzenden den Ausschlag.
 
-Der/die Kassenwart/-in überwacht die Haushaltsführung und verwaltet unter Beachtung etwaiger
-Vorstandsbeschlüsse das Vermögen des Vereins. Er/Sie hat auf eine sparsame und wirtschaftliche
-Haushaltsführung hinzuwirken. Mit Ablauf des Geschäftsjahres stellt er/sie unverzüglich
+Der Kassenwart überwacht die Haushaltsführung und verwaltet unter Beachtung etwaiger
+Vorstandsbeschlüsse das Vermögen des Vereins. Er hat auf eine sparsame und wirtschaftliche
+Haushaltsführung hinzuwirken. Mit Ablauf des Geschäftsjahres stellt er unverzüglich
 die Abrechnung sowie die Vermögensübersicht und sonstige Unterlagen von wirtschaftlichem
-Belang den Kassenprüfer/-innen des Vereins zur Verfügung.
+Belang den Kassenprüfer des Vereins zur Verfügung.
 
 Die Vorstandsmitglieder sind ehrenamtlich tätig.
 
 Der Vorstand kann zur Unterstützung und Wahrnehmung seiner Aufgaben Vereinsmitglieder berufen, die entweder auf Dauer oder nur zur Erfüllung einer zeitlich begrenzten Tätigkeit Funktionen übernehmen.
 
 # §13 Kassenprüfung
-Die Mitgliederversammlung wählt für die Dauer von einem Jahr bis zu zwei Kassenprüfer/innen.
+Die Mitgliederversammlung wählt für die Dauer von einem Jahr bis zu zwei Kassenprüfer.
 
-Diese/r dürfen nicht Mitglied des Vorstands sein.
+Diese dürfen nicht Mitglied des Vorstands sein.
 
 Eine Wiederwahl ist zulässig.
 
-Aufgabe der Kassenprüfer/-innen ist es die Kasse, d. h. Ein- und Ausgaben, auf Korrektheit insbesondere in Bezug auf satzungsgemäße Verwendung der Vereinsmittel zu prüfen.
+Aufgabe der Kassenprüfer ist es die Kasse, d. h. Ein- und Ausgaben, auf Korrektheit insbesondere in Bezug auf satzungsgemäße Verwendung der Vereinsmittel zu prüfen.
 
-Die Kassenprüfer/-innen erstatten der Mitgliederversammlung Bericht.
+Die Kassenprüfer erstatten der Mitgliederversammlung Bericht.
 
 # §14 Transparenzgebot
 Die Mitglieder und Vorstand sind gehalten über ihre Tätigkeiten Transparenz herzustellen und über diese regelmäßig und zeitnah zu berichten. Dies soll in „elektronischer Form“ (E-Mail, Forum, Blog) geschehen und allen Mitgliedern zugänglich sein.
