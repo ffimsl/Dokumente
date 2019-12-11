@@ -24,7 +24,7 @@ Der Satzungszweck wird verwirklicht insbesondere durch
 
 # §4 Selbstlose Tätigkeit
 Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Ziele. 
-Die Zahlung von Aufwandsentschädigungen an Mitglieder des Vorstandes oder anderweitig für den Verein tätige Mitglieder in angemessener Höhe ist zulässig. Niemand darf durch Ausgaben, die dem Zwecke des Vereins fremd sind oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
+Die Zahlung von Aufwandsentschädigungen an Mitglieder des Vorstandes oder anderweitig für den Verein tätige Mitglieder in angemessener Höhe ist zulässig.
 
 # §5 Mittelverwendung
 Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins.
@@ -74,8 +74,8 @@ Anträge über die Abwahl des Vorstands, über die Änderung der Satzung und üb
 
 Die Mitgliederversammlung ist ohne Rücksicht auf die Zahl der erschienenen Mitglieder beschlussfähig.
 
-Zu Beginn der Mitgliederversammlung ist ein/e Versammlungsleiter/-in zu wählen.
-Zu Beginn der Mitgliederversammlung ist ein/e Schriftführer/-in zu wählen.
+Zu Beginn der Mitgliederversammlung ist ein Versammlungsleiter und ggf. ein optionaler Vertreter zu wählen.
+Zu Beginn der Mitgliederversammlung sind ein oder zwei Schriftführende zu wählen.
 Jedes ordentliche Mitglied hat eine Stimme.
 Das Stimmrecht kann nur persönlich oder für ein Mitglied unter Vorlage einer schriftlichen Vollmacht ausgeübt werden.
 Bei Abstimmungen entscheidet die einfache Mehrheit der abgegebenen Stimmen.
@@ -127,5 +127,7 @@ Die Mitglieder und Vorstand sind gehalten über ihre Tätigkeiten Transparenz he
 # §15 Auflösung des Vereins
 Bei Auflösung oder Aufhebung des Vereins fällt das Vermögen der Körperschaft zu gleichen Teilen an den Freifunk Nordwest e. V. und den Freifunk Rheinland e. V. die es unmittelbar und ausschließlich für den weiteren Ausbau von Freifunk-Netzwerken zu verwenden haben.
 
+# §16 Salvatorische Klausel
+Sollte sich eine einzelne Bestimmung dieser Satzung als unwirksam herausstellen, so bleibt die Wirksamkeit der übrigen Bestimmungen unberührt. An Stelle der unwirksamen Bestimmung gilt diejenige rechtswirksame Regelung als gewollt und erklärt, die den Sinn und Zweck der unwirksamen Bestimmung und der gesamten Satzung unter Berücksichtigung von Treu und Glauben am nächsten kommt und den allgemeinen Grundsätzen des Vereinsrechts entspricht.
 
 Ort, Datum
