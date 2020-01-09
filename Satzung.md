@@ -132,4 +132,5 @@ Bei Auflösung oder Aufhebung des Vereins fällt das Vermögen der Körperschaft
 # §16 Salvatorische Klausel
 Sollte sich eine einzelne Bestimmung dieser Satzung als unwirksam herausstellen, so bleibt die Wirksamkeit der übrigen Bestimmungen unberührt. An Stelle der unwirksamen Bestimmung gilt diejenige rechtswirksame Regelung als gewollt und erklärt, die den Sinn und Zweck der unwirksamen Bestimmung und der gesamten Satzung unter Berücksichtigung von Treu und Glauben am nächsten kommt und den allgemeinen Grundsätzen des Vereinsrechts entspricht.
 
-Ort, Datum
+Ort, Datum  
+Münster, 11.12.2019
