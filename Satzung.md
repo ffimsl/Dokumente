@@ -13,7 +13,7 @@ Das Geschäftsjahr ist das Kalenderjahr. Das erste Geschäftsjahr beginnt mit de
 # §3 Zweck des Vereins
 Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung.
 
-Zweck des Vereins ist die Förderung von Wissenschaft und Forschung, Volks- und Berufsbildung, Kunst und Kultur sowie bürgerschaftlichem Engagement.
+Zweck des Vereins ist die Förderung des Freifunks, von Wissenschaft und Forschung, Volks- und Berufsbildung, Kunst und Kultur sowie bürgerschaftlichem Engagement.
 
 Der Satzungszweck wird verwirklicht insbesondere durch 
 
