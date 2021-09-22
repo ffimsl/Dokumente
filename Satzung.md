@@ -128,7 +128,7 @@ Die Kassenprüfer erstatten der Mitgliederversammlung Bericht.
 Die Mitglieder und Vorstand sind gehalten über ihre Tätigkeiten Transparenz herzustellen und über diese regelmäßig und zeitnah zu berichten. Dies soll in „elektronischer Form“ (E-Mail, Forum, Blog) geschehen und allen Mitgliedern zugänglich sein.
 
 # §15 Auflösung des Vereins
-Bei Auflösung oder Aufhebung des Vereins fällt das Vermögen der Körperschaft zu gleichen Teilen an den Freifunk Nordwest e. V. und den Freifunk Rheinland e. V. die es unmittelbar und ausschließlich für den weiteren Ausbau von Freifunk-Netzwerken zu verwenden haben.
+Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall aller steuerbegünstigter Zwecke fällt das Vermögen der Körperschaft zu gleichen Teilen an den Freifunk Nordwest e. V. und den Freifunk Rheinland e. V. die es unmittelbar und ausschließlich für den weiteren Ausbau von Freifunk-Netzwerken zu verwenden haben.
 
 # §16 Salvatorische Klausel
 Sollte sich eine einzelne Bestimmung dieser Satzung als unwirksam herausstellen, so bleibt die Wirksamkeit der übrigen Bestimmungen unberührt. An Stelle der unwirksamen Bestimmung gilt diejenige rechtswirksame Regelung als gewollt und erklärt, die den Sinn und Zweck der unwirksamen Bestimmung und der gesamten Satzung unter Berücksichtigung von Treu und Glauben am nächsten kommt und den allgemeinen Grundsätzen des Vereinsrechts entspricht.
