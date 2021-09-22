@@ -59,6 +59,7 @@ Ein Ausschluss kann nur aus wichtigem Grund erfolgen. Wichtige Gründe sind insb
 
 # §10 Organe des Vereins
 Organe des Vereins sind
+
 * die Mitgliederversammlung
 * der Vorstand
 
@@ -130,7 +131,7 @@ Die Mitglieder und Vorstand sind gehalten über ihre Tätigkeiten Transparenz he
 Bei Auflösung oder Aufhebung des Vereins fällt das Vermögen der Körperschaft zu gleichen Teilen an den Freifunk Nordwest e. V. und den Freifunk Rheinland e. V. die es unmittelbar und ausschließlich für den weiteren Ausbau von Freifunk-Netzwerken zu verwenden haben.
 
 # §16 Salvatorische Klausel
-Sollte sich eine einzelne Bestimmung dieser Satzung als unwirksam herausstellen, so bleibt die Wirksamkeit der übrigen Bestimmungen unberührt. An Stelle der unwirksamen Bestimmung gilt diejenige rechtswirksame Regelung als gewollt und erklärt, die den Sinn und Zweck der unwirksamen Bestimmung und der gesamten Satzung unter Berücksichtigung von Treu und Glauben am nächsten kommt und den allgemeinen Grundsätzen des Vereinsrechts entspricht.
+Sollte sich eine einzelne Bestimmung dieser Satzung als unwirksam herausstellen, so bleibt die Wirksamkeit der übrigen Bestimmungen unberührt. An Stelle der unwirksamen Bestimmung gilt diejenige rechtswirksame Regelung als gewollt und erklärt, die den Sinn und Zweck der unwirksamen Bestimmung und der gesamten Satzung unter Berücksichtigung von Treu und Glauben am nächsten kommt und den allgemeinen Grundsätzen des Vereinsrechts entspricht.
 
 Ort, Datum  
 Münster, 11.12.2019
